@@ -1,2 +1,4 @@
 # hello_world
-Just another repository
+
+This is my kingdom guys. 
+I rule it.
